@@ -1,0 +1,24 @@
+#webcam {
+    background-color: rgb(105, 82, 82);
+    box-shadow: 15px 15px 15px rgb(177, 215, 215);
+  border-style: dotted;
+  width: 250px;
+  height:250px;   
+}
+
+#dad {
+    width: 600px;
+}
+#me {
+    width: 600px;
+}
+    
+#mom {
+    width: 600px;
+}
+    
+#sis {
+    width: 600px;
+}
+    
+    
